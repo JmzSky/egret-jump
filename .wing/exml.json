@@ -1,0 +1,24 @@
+{
+  "16933b1f387": {
+    "path": "scene/SceneBegin.ts",
+    "class": "SceneBegin",
+    "parentPath": ""
+  },
+  "169370b0be5": {
+    "path": "scene/SceneGame.ts",
+    "class": "SceneGame",
+    "parentPath": "",
+    "backgroundX": 0,
+    "backgroundY": 0,
+    "backgroundWidth": -1,
+    "backgroundHeight": -1,
+    "useBgImage": true,
+    "useBgColor": true,
+    "backgroundAlpha": 100
+  },
+  "16993e438ce": {
+    "path": "scene/hh.ts",
+    "class": "hh",
+    "parentPath": ""
+  }
+}
